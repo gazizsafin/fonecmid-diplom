@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.BKM_ОбслуживаниеКлиентов</content>
   <content>Catalog.BKM_Сотрудники</content>
+  <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
 </mdclass:Subsystem>
