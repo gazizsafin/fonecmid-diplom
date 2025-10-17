@@ -625,6 +625,7 @@
   <roles>Role.ЧтениеДополнительныхСведений</roles>
   <roles>Role.ЧтениеНСИ</roles>
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
+  <roles>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1383,5 +1384,6 @@
   <accumulationRegisters>AccumulationRegister.ОбработкаЗаказов</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
 </mdclass:Configuration>

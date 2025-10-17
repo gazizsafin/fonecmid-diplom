@@ -25,6 +25,7 @@
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.BKM_ОбслуживаниеКлиентов.Form.ФормаДокумента</defaultObjectForm>
   <defaultListForm>Document.BKM_ОбслуживаниеКлиентов.Form.ФормаСписка</defaultListForm>
+  <registerRecords>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="fdffa5e4-b01e-4e15-be6d-7210ab150870">

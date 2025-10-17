@@ -9,4 +9,6 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.BKM_Сотрудники</content>
   <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</content>
+  <content>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</content>
 </mdclass:Subsystem>
