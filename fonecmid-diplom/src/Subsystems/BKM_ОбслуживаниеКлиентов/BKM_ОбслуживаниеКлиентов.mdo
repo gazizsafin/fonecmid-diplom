@@ -13,4 +13,5 @@
   <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</content>
   <content>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</content>
   <content>CommonModule.BKM_Телеграмм</content>
+  <content>Catalog.BKM_УведомленияТелеграмБоту</content>
 </mdclass:Subsystem>

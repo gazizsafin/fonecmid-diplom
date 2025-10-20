@@ -1221,6 +1221,7 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.BKM_Сотрудники</catalogs>
   <catalogs>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.BKM_УведомленияТелеграмБоту</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
