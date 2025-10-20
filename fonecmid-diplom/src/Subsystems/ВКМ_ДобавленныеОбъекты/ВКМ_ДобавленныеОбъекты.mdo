@@ -11,4 +11,7 @@
   <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
   <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</content>
   <content>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</content>
+  <content>CommonModule.BKM_Телеграмм</content>
+  <content>Constant.BKM_ТокенУправленияТБотом</content>
+  <content>Constant.BKM_ИдентификаторГруппыОповещения</content>
 </mdclass:Subsystem>
