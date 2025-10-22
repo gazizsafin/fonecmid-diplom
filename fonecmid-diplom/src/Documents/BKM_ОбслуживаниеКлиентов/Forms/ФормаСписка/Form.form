@@ -85,7 +85,7 @@
         <horizontalStretch>true</horizontalStretch>
         <verticalStretch>true</verticalStretch>
         <valuesPicture xsi:type="core:PictureRef">
-          <picture>CommonPicture.Скрепка</picture>
+          <picture>CommonPicture.КоллекцияСкрепка</picture>
         </valuesPicture>
         <border xsi:type="core:BorderDef">
           <style>Single</style>
@@ -578,6 +578,9 @@
     <edit>
       <common>true</common>
     </edit>
+    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
+      <segments>Список.Ссылка</segments>
+    </notDefaultUseAlwaysAttributes>
     <main>true</main>
     <extInfo xsi:type="form:DynamicListExtInfo">
       <queryText>ВЫБРАТЬ
@@ -701,14 +704,6 @@
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ЕстьФайлы</dataPath>
         <field>ЕстьФайлы</field>
-        <title>
-          <localValue>
-            <content>
-              <key>ru</key>
-              <value>Есть файлы</value>
-            </content>
-          </localValue>
-        </title>
       </fields>
     </extInfo>
   </attributes>
