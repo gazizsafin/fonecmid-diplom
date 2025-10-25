@@ -12,7 +12,7 @@
   <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</content>
   <content>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</content>
   <content>CommonModule.BKM_Телеграмм</content>
-  <content>Constant.BKM_ТокенУправленияТБотом</content>
+  <content>Constant.ВКМ_ТокенУправленияТБотом</content>
   <content>Constant.BKM_ИдентификаторГруппыОповещения</content>
   <content>Catalog.BKM_УведомленияТелеграмБоту</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
@@ -21,4 +21,6 @@
   <content>Constant.BKM_НоменклатураРаботыСпециалиста</content>
   <content>CommonModule.BKM_ДоработкаДокументаРеализацияТоваровИУслугСервер</content>
   <content>Document.РеализацияТоваровУслуг</content>
+  <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
+  <content>ScheduledJob.BKM_ОтправкаСообщенийВТелеграм</content>
 </mdclass:Subsystem>

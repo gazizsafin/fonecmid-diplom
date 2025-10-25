@@ -9480,7 +9480,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.BKM_ТокенУправленияТБотом</name>
+		<name>Constant.ВКМ_ТокенУправленияТБотом</name>
 		<right>
 			<name>Read</name>
 			<value>false</value>

@@ -16,4 +16,5 @@
   <content>Catalog.BKM_УведомленияТелеграмБоту</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>AccumulationRegister.BKM_ВыполненныеСотрудникомРаботы</content>
+  <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
 </mdclass:Subsystem>
