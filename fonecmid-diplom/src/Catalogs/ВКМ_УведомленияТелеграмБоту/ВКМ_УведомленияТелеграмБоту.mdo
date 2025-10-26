@@ -7,7 +7,7 @@
     <listType typeId="8edaf983-d50b-4b8f-bf6e-6fe0b08a439e" valueTypeId="782ad63d-7cd8-499e-b282-f93f876c5d40"/>
     <managerType typeId="4225aed5-c25e-4807-bf4a-774d2bb3c65e" valueTypeId="5f7c3d11-3d08-4b6a-a437-383dc8854b18"/>
   </producedTypes>
-  <name>BKM_УведомленияТелеграмБоту</name>
+  <name>ВКМ_УведомленияТелеграмБоту</name>
   <synonym>
     <key>ru</key>
     <value>Уведомления телеграм-боту</value>

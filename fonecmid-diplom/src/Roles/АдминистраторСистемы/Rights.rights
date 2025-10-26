@@ -4854,7 +4854,7 @@
 		</right>
 	</object>
 	<object>
-		<name>AccumulationRegister.BKM_ВыполненныеКлиентуРаботы</name>
+		<name>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</name>
 		<right>
 			<name>Read</name>
 			<value>false</value>
@@ -6466,7 +6466,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.BKM_УведомленияТелеграмБоту</name>
+		<name>Catalog.ВКМ_УведомленияТелеграмБоту</name>
 		<right>
 			<name>Read</name>
 			<value>false</value>
@@ -12840,7 +12840,7 @@
 		</right>
 	</object>
 	<object>
-		<name>AccumulationRegister.BKM_ВыполненныеСотрудникомРаботы</name>
+		<name>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</name>
 		<right>
 			<name>Read</name>
 			<value>false</value>

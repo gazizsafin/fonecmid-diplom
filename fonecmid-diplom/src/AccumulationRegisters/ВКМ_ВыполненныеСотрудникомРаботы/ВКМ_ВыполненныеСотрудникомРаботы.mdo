@@ -8,7 +8,7 @@
     <recordKeyType typeId="8780dcb3-12a2-4c03-b9c7-92d55b9101e9" valueTypeId="1dbd4e1e-83b6-4150-b826-aeb8821a7d6a"/>
     <recordType typeId="53385ab3-bb97-4181-bcb9-96a6901992f0" valueTypeId="56cb8362-faf1-4f12-92de-c87a55956f20"/>
   </producedTypes>
-  <name>BKM_ВыполненныеСотрудникомРаботы</name>
+  <name>ВКМ_ВыполненныеСотрудникомРаботы</name>
   <synonym>
     <key>ru</key>
     <value>Выполненные сотрудником работы</value>
