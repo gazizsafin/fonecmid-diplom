@@ -21,4 +21,5 @@
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
 </mdclass:Subsystem>
