@@ -22,7 +22,7 @@
   <content>CommonModule.BKM_ДоработкаДокументаРеализацияТоваровИУслугСервер</content>
   <content>Document.РеализацияТоваровУслуг</content>
   <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
-  <content>ScheduledJob.BKM_ОтправкаСообщенийВТелеграм</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
   <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
   <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
   <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
