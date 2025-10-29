@@ -39,4 +39,5 @@
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_ВыработкаCпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>
