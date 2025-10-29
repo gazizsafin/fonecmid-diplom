@@ -38,4 +38,5 @@
   <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаCпециалистов</content>
 </mdclass:Subsystem>

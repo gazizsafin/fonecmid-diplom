@@ -18,4 +18,5 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>DataProcessor.BKM_МассовоеСозданиеАктов</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаCпециалистов</content>
 </mdclass:Subsystem>
