@@ -23,12 +23,6 @@
 		<field xsi:type="DataSetFieldField">
 			<dataPath>ПлановаяПродолжительностьОтпуска</dataPath>
 			<field>ПлановаяПродолжительностьОтпуска</field>
-			<title xsi:type="v8:LocalStringType">
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Плановая продолжительность отпуска</v8:content>
-				</v8:item>
-			</title>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Год</dataPath>
@@ -135,7 +129,7 @@
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>Период</dcscor:parameter>
 					<dcscor:value xsi:type="v8:StandardBeginningDate">
-						<v8:variant xsi:type="v8:StandardBeginningDateVariant">Custom</v8:variant>
+						<v8:variant xsi:type="v8:StandardBeginningDateVariant">BeginningOfThisDay</v8:variant>
 						<v8:date>2025-10-29T00:00:00</v8:date>
 					</dcscor:value>
 					<dcsset:userSettingID>38c06b19-0d18-4e3c-918b-63209f57db46</dcsset:userSettingID>
