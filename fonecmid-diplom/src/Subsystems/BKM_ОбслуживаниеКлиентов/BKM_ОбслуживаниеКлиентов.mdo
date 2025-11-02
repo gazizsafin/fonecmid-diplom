@@ -20,4 +20,5 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_ВыработкаCпециалистов</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
 </mdclass:Subsystem>

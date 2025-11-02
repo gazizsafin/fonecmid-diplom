@@ -127,12 +127,17 @@
 			</dcsset:selection>
 			<dcsset:dataParameters>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:use>false</dcscor:use>
 					<dcscor:parameter>Период</dcscor:parameter>
+					<dcsset:userSettingID>38c06b19-0d18-4e3c-918b-63209f57db46</dcsset:userSettingID>
+				</dcscor:item>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>ДатаОтчета</dcscor:parameter>
 					<dcscor:value xsi:type="v8:StandardBeginningDate">
 						<v8:variant xsi:type="v8:StandardBeginningDateVariant">BeginningOfThisDay</v8:variant>
-						<v8:date>2025-10-29T00:00:00</v8:date>
+						<v8:date>2025-11-02T18:46:04</v8:date>
 					</dcscor:value>
-					<dcsset:userSettingID>38c06b19-0d18-4e3c-918b-63209f57db46</dcsset:userSettingID>
+					<dcsset:userSettingID>826507cb-6f54-45a5-85f3-3423062c19b1</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
 			<dcsset:conditionalAppearance>
