@@ -13,7 +13,7 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>CommonModule.BKM_Телеграмм</content>
   <content>Constant.ВКМ_ТокенУправленияТБотом</content>
-  <content>Constant.BKM_ИдентификаторГруппыОповещения</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыОповещения</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>

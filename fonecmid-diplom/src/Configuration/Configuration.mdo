@@ -1130,7 +1130,7 @@
   <constants>Constant.УчетнаяЗаписьДляВосстановленияПароля</constants>
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
   <constants>Constant.ВКМ_ТокенУправленияТБотом</constants>
-  <constants>Constant.BKM_ИдентификаторГруппыОповещения</constants>
+  <constants>Constant.ВКМ_ИдентификаторГруппыОповещения</constants>
   <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
   <constants>Constant.BKM_НоменклатураРаботыСпециалиста</constants>
   <constants>Constant.ВКМ_ГрафикОтпуска</constants>
