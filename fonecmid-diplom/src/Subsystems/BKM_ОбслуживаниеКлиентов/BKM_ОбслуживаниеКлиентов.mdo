@@ -21,4 +21,5 @@
   <content>Report.ВКМ_ВыработкаCпециалистов</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
+  <content>Document.РеализацияТоваровУслуг</content>
 </mdclass:Subsystem>

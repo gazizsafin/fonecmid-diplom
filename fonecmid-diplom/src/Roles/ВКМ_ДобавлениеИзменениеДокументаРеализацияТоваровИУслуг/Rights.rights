@@ -39,6 +39,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.BKM_ОбслуживаниеКлиентов</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Configuration.УправлениеITФирмой</name>
 		<right>
 			<name>ThinClient</name>
