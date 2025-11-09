@@ -22,4 +22,5 @@
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Document.РеализацияТоваровУслуг</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовМенеджер</content>
 </mdclass:Subsystem>
