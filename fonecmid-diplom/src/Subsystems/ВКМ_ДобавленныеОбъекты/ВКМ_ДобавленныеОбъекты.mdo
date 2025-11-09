@@ -9,7 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.BKM_Сотрудники</content>
   <content>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
-  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентов</content>
+  <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовСпециалист</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>CommonModule.BKM_Телеграмм</content>
   <content>Constant.ВКМ_ТокенУправленияТБотом</content>
