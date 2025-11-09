@@ -199,6 +199,17 @@
 					<dcsset:userSettingID>714b642a-5ef6-4b1e-b906-c813200cad55</dcsset:userSettingID>
 				</dcsset:item>
 			</dcsset:filter>
+			<dcsset:dataParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>Период</dcscor:parameter>
+					<dcscor:value xsi:type="v8:StandardPeriod">
+						<v8:variant xsi:type="v8:StandardPeriodVariant">Custom</v8:variant>
+						<v8:startDate>2000-01-01T00:00:00</v8:startDate>
+						<v8:endDate>2000-01-01T23:59:59</v8:endDate>
+					</dcscor:value>
+					<dcsset:userSettingID>496ef883-9547-4e02-9099-68226e81cfd1</dcsset:userSettingID>
+				</dcscor:item>
+			</dcsset:dataParameters>
 			<dcsset:conditionalAppearance>
 				<dcsset:item>
 					<dcsset:selection/>
