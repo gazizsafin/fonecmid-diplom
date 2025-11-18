@@ -42,4 +42,5 @@
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовМенеджер</content>
+  <content>Catalog.ВКМ_Подразделения</content>
 </mdclass:Subsystem>

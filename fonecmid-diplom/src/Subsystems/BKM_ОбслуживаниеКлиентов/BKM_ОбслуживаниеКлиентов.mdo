@@ -23,4 +23,5 @@
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Document.РеализацияТоваровУслуг</content>
   <content>Role.BKM_ДобавлениеИзменениеДокументаОбслуживанияКлиентовМенеджер</content>
+  <content>Catalog.ВКМ_Подразделения</content>
 </mdclass:Subsystem>
